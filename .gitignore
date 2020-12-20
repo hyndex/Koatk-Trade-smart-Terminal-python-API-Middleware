@@ -1,0 +1,7 @@
+./driver/*
+chromedriver
+chromedriver.exe
+.ipynb_checkpoints
+*.pyc
+__pycache__
+/driver/*
